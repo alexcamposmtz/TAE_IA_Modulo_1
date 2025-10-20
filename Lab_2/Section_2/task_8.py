@@ -105,7 +105,7 @@ except Exception:
     print("Ingrese al menos tres números válidos.")
 print()
 
-print("="*50)
+print("==========================================================================================")
 print("PUNTOS CLAVE:")
 print("- input() bloquea hasta que el usuario presiona Enter y siempre devuelve una cadena.")
 print("- Para usar números, convierta con int() o float().")

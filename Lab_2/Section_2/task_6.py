@@ -62,6 +62,6 @@ print("- Es útil para limpiar, formatear o transformar datos en texto.")
 print("- Se puede encadenar para aplicar varios reemplazos en una sola instrucción.")
 print("- Es una herramienta básica en la manipulación de strings dentro de Python.")
 print("")
-# Referencia bibliográfica (APA 7)
+# Referencias
 print("Referencia:")
 print("Benedetti, M. (2022). Cartas a Chepita (1946-1948). Alfaguara.")
