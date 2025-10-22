@@ -1,9 +1,12 @@
 # task_3.py
 # Sección 1. Práctica de Programación
 # Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
+
 # TAREA 3: Juego de Adivinar Número
 """
-Este programa implementa un juego interactivo donde el usuario
+Se implementa un juego donde el usuario
 debe adivinar un número aleatorio entre 1 y 100.
 El programa proporciona pistas indicando si el número ingresado
 es mayor o menor que el número secreto.

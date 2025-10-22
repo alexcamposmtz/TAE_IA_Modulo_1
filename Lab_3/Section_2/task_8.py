@@ -1,9 +1,13 @@
 # task_8.py
 # Sección 2. Detección de Errores
-# [Tu Nombre Aquí]
+# Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
+
 # ERROR: KeyError
+
 """
-En este archivo se documenta un error de clave (KeyError)
+Se documenta un error de clave (KeyError)
 encontrado durante la práctica.
 """
 
@@ -106,7 +110,7 @@ print("=" * 70)
 print("Error corregido")
 print("=" * 70)
 
-# Errores de KeyError
+# Errores presentados de KeyError
 print("")
 print("Errores de KeyError:")
 print("-" * 70)

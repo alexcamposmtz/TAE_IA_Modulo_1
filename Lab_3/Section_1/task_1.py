@@ -1,10 +1,12 @@
 # task_1.py
 # Sección 1. Práctica de Programación
 # Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
+
 # Multiplicación de Matrices 4x4
 """
-Este programa realiza la multiplicación de dos matrices 4x4
-sin utilizar librerías externas (como NumPy).
+Se realiza la multiplicación de dos matrices 4x4
 Se implementan tres loops anidados para calcular cada elemento
 de la matriz resultado.
 """

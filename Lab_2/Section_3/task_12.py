@@ -1,6 +1,9 @@
 # task_12.py
 # Sección 3. Detección de Errores
 # Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
+
 # ERROR: KeyError
 
 """

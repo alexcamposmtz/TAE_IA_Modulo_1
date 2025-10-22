@@ -1,5 +1,6 @@
 # task_3.py
 # Sección 1. Práctica de programación
+# Team 6
 # Alejandro Campos Martínez
 
 # Definir lista de ejemplo

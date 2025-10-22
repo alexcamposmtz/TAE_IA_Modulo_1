@@ -1,7 +1,10 @@
 # task_6.py
-# Alejandro Campos Martínez
 # Ejemplo del método .replace()
+# Team 6
+# Alejandro Campos Martínez
+# Agustín Jaime Navarro
 
+# Explicación del método .sort() aplicado a listas
 """
 El método .replace() reemplaza todas las ocurrencias de un substring
 por otro substring dentro de un string.

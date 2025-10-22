@@ -1,9 +1,12 @@
 # task_7.py
 # Sección 2. Detección de Errores
 # Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
+
 # ERROR: IndexError
 """
-En este archivo se documenta un error de índice (IndexError)
+Se documenta un error de índice (IndexError)
 encontrado durante la práctica.
 """
 
@@ -93,7 +96,7 @@ print("=" * 70)
 print("Error corregido")
 print("=" * 70)
 
-# Errores de IndexError
+# Errores que se nos presentaron de IndexError
 print("")
 print("Erro de IndexError:")
 print("-" * 70)

@@ -1,9 +1,12 @@
 # task_6.py
 # Sección 2. Detección de Errores
 # Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
+
 # ERROR: TypeError
 """
-En este archivo se documenta un error de tipo (TypeError)
+Se documenta un error de tipo (TypeError)
 encontrado durante la práctica.
 """
 
@@ -78,7 +81,7 @@ print("=" * 70)
 print("Error corregido")
 print("=" * 70)
 
-# Errores de TypeError
+# Errores de TypeError que se nos presentarón
 print("")
 print("Errores de TypeError:")
 print("-" * 70)

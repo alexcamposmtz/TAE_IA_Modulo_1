@@ -1,9 +1,12 @@
 # task_5.py
 # Sección 2. Detección de Errores
 # Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
+
 # ERROR: SyntaxError
 """
-En este archivo se documenta un error de sintaxis (SyntaxError)
+Se documenta un error de sintaxis (SyntaxError)
 encontrado durante la práctica.
 """
 
@@ -64,7 +67,7 @@ print("=" * 70)
 print("Error corregido")
 print("=" * 70)
 
-# Errores comunes de SyntaxError
+# Errores que se nos presentaron de SyntaxError
 print("")
 print("Errores comunes de SyntaxError:")
 print("-" * 70)

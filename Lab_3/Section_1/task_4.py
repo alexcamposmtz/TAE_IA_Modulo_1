@@ -1,6 +1,9 @@
 # task_4.py
 # Sección 1. Práctica de Programación
 # Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
+
 # Validador de Contraseñas
 
 """

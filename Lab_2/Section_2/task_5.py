@@ -1,6 +1,9 @@
 # task_5.py
-# Alejandro Campos Martínez
 # Explicación del método .sort() aplicado a listas
+# Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
+
 
 """
 El método .sort() ordena los elementos de una lista in-place (modifica la lista original).

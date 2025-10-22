@@ -1,9 +1,12 @@
 # task_2.py
 # Sección 1. Práctica de Programación
 # Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
+
 # Filtrado de Diccionarios
 """
-Este programa crea un diccionario con nombres de animales y
+Se crea un diccionario con nombres de animales y
 genera tres diccionarios filtrados que contienen palabras con
 las letras 'a', 'b' y 'y' respectivamente.
 """
@@ -38,7 +41,7 @@ print("=" * 60)
 
 dict_a = {}
 for key, value in main_dictionary.items():
-    if 'a' in value.lower():  # Convertir a minúsculas para capturar 'a' y 'A'
+    if 'a' in value.lower():  # Convertir a minúsculas para guardar 'a' y 'A'
         dict_a[key] = value
 
 print(dict_a)

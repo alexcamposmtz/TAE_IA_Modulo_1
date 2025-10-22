@@ -1,6 +1,9 @@
 # task_7_cronopios.py
 # Alejandro Campos Martínez
-# Explicación de la expresión s *= n (con cronopios, famas y esperanzas)
+# Agustín Jaime Navarro
+# Team 6
+
+# Explicación de la expresión s *= n
 
 """
 La expresión s *= n significa:

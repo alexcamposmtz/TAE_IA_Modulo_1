@@ -1,6 +1,8 @@
 # task_1.py
 # Sección 1. Práctica de programación
 # Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
 
 #Variable con valor "123"
 var = "123"

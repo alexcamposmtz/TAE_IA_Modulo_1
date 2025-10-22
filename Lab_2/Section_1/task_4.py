@@ -1,6 +1,8 @@
 # task_4.py
 # Sección 1. Práctica de programación
 # Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
 
 # Diccionario de estudiantes con sus calificaciones
 estudiantes = {

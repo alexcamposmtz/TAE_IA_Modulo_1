@@ -1,5 +1,6 @@
 # Lab 2: Python Introduction
 
+**Team 6
 **Estudiante:** Alejandro Campos Martínez  
 **Instructor:** Cristian Torres González  
 **Fecha de asignación:** 14/10/2025  

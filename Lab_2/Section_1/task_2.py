@@ -1,6 +1,8 @@
 # task_2.py
 # Sección 1. Práctica de programación
 # Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
 
 # Definir números
 num_int = 10
@@ -31,6 +33,6 @@ print(f"División: {num_int} / {num_float} = {division}")
 print(f"Tipo del resultado: {type(division)}\n")
 
 print("=================================================================")
-print("\nOBSERVACIONES:")
+print("OBSERVACIONES:")
 print("- Cuando operamos int con float, el resultado es float")
 print("- La división (/) SIEMPRE devuelve float, incluso con dos int")

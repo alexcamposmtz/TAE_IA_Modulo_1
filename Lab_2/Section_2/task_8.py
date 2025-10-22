@@ -1,5 +1,8 @@
 # task_8_cronopios.py
 # Alejandro Campos Martínez
+# Agustín Jaime Navarro
+# Team 6
+
 # Explicación detallada de input() con ejemplos (tema: cronopios, famas y esperanzas)
 
 """
