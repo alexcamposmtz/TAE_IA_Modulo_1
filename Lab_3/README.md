@@ -5,8 +5,9 @@
 ## Información del Laboratorio
 **Instructor:** Cristian Torres González  
 **Fecha de Asignación:** 14/10/2025  
-**Fecha de Entrega:** 19/10/2025  
-**Estudiante:** Alejandro Campos Martínez
+**Fecha de Entrega:** 19/10/2025
+**Team 6**  
+**Estudiantea:** Alejandro Campos Martínez && Agustín Jaime Navarro
 
 ---
 
@@ -285,6 +286,6 @@ python task_8.py  # KeyError
 
 ---
 
-**Laboratorio completado por:**  Alejandro Campos Martínez
+**Laboratorio completado por:**  Alejandro Campos Martínez && Agustín Jaime Navarro
 **Fecha:** 19 de octubre de 2025  
 **COCYTEN-Nayarit · Inteligencia Artificial 2025**
